@@ -1,2 +1,2 @@
-# testDLL 
-**A basic DLL that triggers a MessageBox.**
+# Test DLLs
+**Some basic and simple DLLs that help you in some cases, I guess 🤷‍♂️**
